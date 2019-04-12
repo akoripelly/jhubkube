@@ -1,2 +1,2 @@
 # jhubkube
-Jupyterhub installation on Kubernetes installed on Bare Metal Ubuntu 
+## Zero to Jupyterhub with Kubernetes For Non-Cloud Deployments
